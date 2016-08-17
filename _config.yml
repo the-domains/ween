@@ -1,6 +1,6 @@
 name: ween
 favicon: null
-layout_spectrum: 1
+layout_spectrum: 0.5522305446211249
 typography_spectrum: 0.49120472418144345
 cta:
   domain: null
@@ -16,11 +16,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#1a1a1a'
-    - '#ffffff'
-    - '#d0d0d0'
-    - '#434343'
-    - '#9f9f9f'
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
   brandStrength: 0.41001774254254997
   lightness: 0.501165974419564
   saturation: 0.02161853015422821
