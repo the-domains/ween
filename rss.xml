@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[ween]]></title>
+        <description><![CDATA[ween]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Wed, 17 Aug 2016 16:29:14 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Ween Philadelphia 2016, on my way! ]]></title>
+            <description><![CDATA[<article><h1>Ween Philadelphia 2016, on my way! </h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/fd0a9b71-b85a-4b0c-95fc-dee569010681.png"></article>]]></description>
+            <link>undefinedween-philadelphia-2016-on-my-way/index.html</link>
+            <guid isPermaLink="false">e1499408-ddf2-4e1a-be40-ce9384821f53</guid>
+            <pubDate>Wed, 17 Aug 2016 16:29:11 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
